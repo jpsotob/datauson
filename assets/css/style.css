@@ -32,7 +32,7 @@ h6 {
 	font-weight: 400;
 	margin: 0 0 20px 0;
 	padding: 0;
-	color: #32407e
+	color: #113293
 }
 
 .back-to-top {
@@ -42,7 +42,7 @@ h6 {
 	right: 15px;
 	bottom: 15px;
 	z-index: 996;
-	background: #f82249;
+	background: #F7CE51;
 	width: 40px;
 	height: 40px;
 	border-radius: 50px;
@@ -56,7 +56,7 @@ h6 {
 }
 
 .back-to-top:hover {
-	background: #f94a6a;
+	background: #F7CE51;
 	color: #fff
 }
 
@@ -77,7 +77,7 @@ h6 {
 	display: block;
 	width: 60px;
 	height: 5px;
-	background: #7b64e6;
+	background: #0096FF; 
 	bottom: 0;
 	left: calc(50% - 25px)
 }
@@ -123,7 +123,7 @@ h6 {
 }
 
 #header #logo h1 span {
-	color: #f82249
+	color: #F7CE51
 }
 
 #header #logo h1 a,
@@ -191,7 +191,7 @@ h6 {
 	height: 2px;
 	bottom: -6px;
 	left: 0;
-	background-color: #f82249;
+	background-color: #F7CE51;
 	visibility: hidden;
 	transition: all .3s ease-in-out 0s
 }
@@ -265,7 +265,7 @@ h6 {
 .navbar-mobile .active,
 .navbar-mobile a:hover,
 .navbar-mobile li:hover>a {
-	color: #f82249
+	color: #F7CE51
 }
 
 #hero {
@@ -322,7 +322,7 @@ h6 {
 }
 
 #hero h1 span {
-	color: #7b64e6
+	color: #0096FF
 }
 
 @media (max-width:991px) {
@@ -332,7 +332,7 @@ h6 {
 }
 
 #hero p {
-	color: #32407e;
+	color: #0096FF;
 	font-weight: 700;
 	font-size: 20px
 }
@@ -394,7 +394,7 @@ h6 {
 	font-size: 36px;
 	font-weight: 700;
 	margin-bottom: 10px;
-	color: #7b64e6
+	color: #0096FF
 }
 
 #about h3 {
@@ -402,7 +402,7 @@ h6 {
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-bottom: 10px;
-	color: #7b64e6
+	color: #0096FF
 }
 
 #about p {
@@ -446,25 +446,25 @@ h6 {
 }
 
 #footer {
-	background: #32407e;
+	background: #113293;
 	padding: 0 0 25px 0;
 	color: #eee;
 	font-size: 14px
 }
 
 #footer .footer-top {
-	background: #32407e;
+	background: #113293;
 	padding: 60px 0 30px 0
 }
 
 #footer .footer-top h4 {
-	font-size: 14px;
+	font-size: 12px;
 	font-weight: 700;
 	color: #fff;
 	text-transform: uppercase;
 	position: relative;
-	padding-bottom: 12px;
-	border-bottom: 2px solid #f82249
+	padding-bottom: 10px;
+	border-bottom: 2px solid #F7CE51
 }
 
 
@@ -564,25 +564,24 @@ h6 {
     cursor: pointer;
 }
 #header.header-scrolled {
-  background: #32407e;
+  background: #113293;
   height: 70px;
 }
 img{
 	display: block;
-	width: 250px;
-    height: 390px;
+	width: 400px;
+    height: 283px;
 	max-width: 100%;
     max-height: 100%;
 	margin: auto auto auto auto;
 	cursor: pointer;
 	align-items: center;
-
 }
 
 .block{
 	text-align: center;
 	text-decoration: underline;
-	text-decoration-color: blue;
+	text-decoration-color: #113293;
 	padding-top: 30px;
 	padding-bottom: 5px;
 }
@@ -622,7 +621,7 @@ img{
 	display: block;
     margin: auto;
 	width: 50%;
-	height: auto;
+	height: 50%;
 
 }
 
@@ -673,7 +672,7 @@ a{
   }
   
   .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-	color: #f82249;
+	color: #F7CE51;
   }
   
   .navbar .dropdown:hover > ul {
@@ -745,7 +744,7 @@ a{
   }
   
   .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-	color: #f82249;
+	color: #F7CE51;
   }
   
   .navbar-mobile .dropdown > .dropdown-active {
