@@ -1,0 +1,5 @@
+Numeros: #7b64e6
+
+Titulo: #32407e
+
+Fondo: #c9d3f3
